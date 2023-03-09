@@ -8,7 +8,7 @@
                 <div class="card-header">Welcome</div>
 
                 <div class="card-body">
-                    This is a realtime application.
+                    Bluestone Admin Portal.
                 </div>
             </div>
         </div>
